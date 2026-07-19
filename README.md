@@ -8,7 +8,7 @@ MindBloom is a mental wellness web application built with Next.js, designed to h
 - **Radar Chart Results** — Visual breakdown of assessment results, making it easy to identify areas of strength and concern at a glance
 - **Therapist Directory** — Curated listing to help users find and connect with mental health professionals
 - **Smooth Animations** — Framer Motion powered transitions for an engaging, calming user experience
-- **Responsive Design** — Fully optimized for mobile, tablet, and desktop
+- **Responsive Design** -— Fully optimized for mobile, tablet, and desktop
 
 ## Tech Stack
 
